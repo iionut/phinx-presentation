@@ -1,0 +1,12 @@
+{
+    "name": "liviu/phinx-presentation",
+    "require": {
+        "robmorgan/phinx": "^0.5.3"
+    },
+    "authors": [
+        {
+            "name": "Liviu Iosif",
+            "email": "liviu.iosif@code932.com"
+        }
+    ]
+}
