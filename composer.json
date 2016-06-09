@@ -1,7 +1,8 @@
 {
     "name": "liviu/phinx-presentation",
     "require": {
-        "robmorgan/phinx": "^0.5.3"
+        "robmorgan/phinx": "^0.5.3",
+        "fzaninotto/faker": "^1.6"
     },
     "authors": [
         {
